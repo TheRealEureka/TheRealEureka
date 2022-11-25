@@ -1,5 +1,4 @@
-### Hi there 👋
-
+# 📈 Stats:
 [![Eureka's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRealEureka&count_private=true&show_icons=true&theme=cobalt&bg_color=0d1117&hide_border=true)](#)
 
 [![Eureka Streak](https://github-readme-streak-stats.herokuapp.com?user=TheRealEureka&theme=cobalt&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117)](#)
